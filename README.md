@@ -1,4 +1,4 @@
-JavaScript Fix the Scope Lab
+lpedJavaScript Fix the Scope Lab
 ---
 
 ## Objectives
